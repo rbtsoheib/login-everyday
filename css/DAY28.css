@@ -1,0 +1,26 @@
+body {
+
+background-color: black;
+width: 100%;
+height: 100%;
+
+}
+
+h2 {
+
+color: blueviolet;
+font: bold;
+font-size: large;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+p {
+
+color: red;
+font-size: 33px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: 600;
+
+}
+
