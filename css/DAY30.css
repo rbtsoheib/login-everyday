@@ -1,0 +1,24 @@
+body{
+
+    height: fit-content;
+    width: 100%;
+    background-color: black;
+
+}
+
+h1{
+
+    color: brown;
+    font-size: 34px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p{
+
+    color: red;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.6;
+
+}
