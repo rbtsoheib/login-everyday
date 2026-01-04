@@ -1,0 +1,22 @@
+body{
+
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:"Poppins",sans-serif;
+background:#080710}
+
+h1{
+    
+    color:white;
+    text-align:center;
+    margin-top:20px
+
+}
+
+
+p{
+    color:white;
+    text-align:center;
+    margin-top:10px 
+}
