@@ -1,0 +1,21 @@
+body{
+
+    background-color: azure;
+
+}
+
+h1{
+
+    color: red;
+
+}
+
+p{
+
+    font-size: 1px;
+    color: azure;
+    font-family: calc(1px, 2px, 4px);
+
+}
+
+
