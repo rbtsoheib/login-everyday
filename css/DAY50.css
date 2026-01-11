@@ -1,21 +1,13 @@
-body{
-
-    background-color: azure;
-
+body {
+  background-color: azure;
 }
 
-h1{
-
-    color: red;
-
+h1 {
+  color: red;
 }
 
-p{
-
-    font-size: 1px;
-    color: azure;
-    font-family: calc(1px, 2px, 4px);
-
+p {
+  font-size: 1px;
+  color: azure;
+  font-family: calc(1px, 2px, 4px);
 }
-
-
