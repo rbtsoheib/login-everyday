@@ -1,10 +1,7 @@
+const A = 2345;
 
+console.log(A);
 
-const A = 2345 ;
+var B = "hello";
 
-console.log(A) ;
-
-var B = "hello" ;
-
-console.log(B) ;
-
+console.log(B);
