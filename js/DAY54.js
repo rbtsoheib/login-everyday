@@ -1,14 +1,11 @@
-
-
 const Y = "day 54 css ";
 console.log(Y);
 
+var W = 345;
 
-var W = 345 ;
+var Z = 567;
 
-var Z = 567 ;
-
-var X = W + Z ;
+var X = W + Z;
 
 console.log(X);
 
