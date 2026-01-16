@@ -1,0 +1,25 @@
+body{
+
+    background-color: rgb(240, 240, 240);
+
+}
+
+
+h1{
+
+    color: rgb(100, 100, 100);
+
+}
+
+
+p{
+
+    color: rgb(120, 120, 120);
+    
+}
+
+p:hover{
+
+    color: rgb(80, 80, 80);
+    
+}
