@@ -1,18 +1,15 @@
+const G = 345;
 
-const G = 345 ; 
+console.log(G);
 
-console.log(G) ;
+var R = "this is rabti soheib talking";
 
-var R = "this is rabti soheib talking" ; 
+console.log(R);
 
-console.log(R) ;
+var S = "get the fuck out of my website";
 
-var S = "get the fuck out of my website" ;
+console.log(S);
 
-console.log(S) ;
+var T = "I was just joking hhhh, but seriously get out";
 
-var T = "I was just joking hhhh, but seriously get out" ;
-
-console.log(T) ; 
-
-
+console.log(T);
