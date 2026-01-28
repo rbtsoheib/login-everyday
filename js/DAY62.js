@@ -1,3 +1,3 @@
  var A = 346089 ; 
 
- console.log ( A ) ;
+ console.log (A) ;
