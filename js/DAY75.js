@@ -1,7 +1,7 @@
- const a = 20 
+const a = 20;
 
- console.log(a) 
+console.log(a);
 
- var b = "looking good" 
+var b = "looking good";
 
- console.log(b) 
+console.log(b);
