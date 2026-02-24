@@ -1,21 +1,14 @@
-body{
-
-    background-color: blue;
-
+body {
+  background-color: blue;
 }
 
-
-h1{
-
-    color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 34px;
-    font-weight: bold;
-
+h1 {
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 34px;
+  font-weight: bold;
 }
 
-p{
-
-    color : blue ; 
-
+p {
+  color: blue;
 }
